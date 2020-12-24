@@ -1,4 +1,4 @@
-Machine Learning Practical Applications!
+Machine Learning and Deep Learning Practical Applications!
 This repository includes 
 1. Building Artificial Neural Network model to predict prices.
 2. Building Convolutional Neural Networks model to identify images.
